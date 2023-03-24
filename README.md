@@ -2,7 +2,7 @@
 ## 😁 You can call me Drew 
 ### 🐍 Graduated from DevMountain Python Software Engineering Certification 
 ### Connrct with me on [LinkedIn](https://www.linkedin.com/in/andrew-cring-ac17/)
-<img src="https://img.shields.io/badge/Andrew's_LinkedIn-blue"/>
+<a href="https://www.linkedin.com/in/andrew-cring-ac17/"><img src="https://img.shields.io/badge/Andrew's_LinkedIn-blue"/></a>
 
 <!--
 **ACring17/ACring17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
