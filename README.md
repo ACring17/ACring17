@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Andrew Cring 👋
+## I prefer to go by Drew :grin:
+
 
 <!--
 **ACring17/ACring17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
