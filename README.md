@@ -1,7 +1,8 @@
 ### 👋 Hi there, my name is Andrew Cring 
 ## 😁 You can call me Drew 
 ### 🐍 Graduated from DevMountain Python Software Engineering Certification 
-### <a href="https://www.linkedin.com/in/andrew-cring-ac17/"><img src="https://img.shields.io/badge/Andrew's_LinkedIn-blue"/></a> Connrct with me on LinkedIn 
+### Connect with me on LinkedIn 
+### <a href="https://www.linkedin.com/in/andrew-cring-ac17/"><img src="https://img.shields.io/badge/Andrew's_LinkedIn-blue"/></a> 
 
 
 <!--
