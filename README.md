@@ -1,7 +1,7 @@
 ### 👋 Hi there, my name is Andrew Cring 
 ##  📖 And I love to learn 
 ### 🐍 Graduated from DevMountain Python Software Engineering Certification 
-### 📄 Languages I am fluent with Python | JavaScript | JSON | HTML | CSS | SQL
+### 📄 Languages I have experience with Python | JavaScript | JSON | HTML | CSS | SQL
 ### 🤝 Connect with me on LinkedIn <a href="https://www.linkedin.com/in/andrew-cring-ac17/"><img src="https://img.shields.io/badge/Andrew's_LinkedIn-blue"/></a> 
 
 
